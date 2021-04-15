@@ -1,0 +1,2 @@
+rootProject.name='Apache_code_android'
+include ':app', ':apache_code_android'
